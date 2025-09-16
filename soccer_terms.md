@@ -18,15 +18,15 @@
 
 ## Formations
 
-**2-1-3**: A very attacking 7v7 formation that includes two defenders, one midfielder, and three forwards.
+**3-3-1**: An attacking 8v8 formation (including a goalkeeper) with three defenders, three midfielders, and one forward.
 
-**2-2-2**: A balanced 7v7 formation that includes two defenders, two midfielders, and two forwards.
+**2-3-2**: A balanced 8v8 formation (including a goalkeeper) with two defenders, three midfielders, and two forwards.
 
-**2-3-1**: A common 7v7 formation that includes two defenders, three midfielders, and one forward.
+**3-2-2**: A common 8v8 formation (including a goalkeeper) with three defenders, two midfielders, and two forwards.
 
-**3-1-2**: An attacking 7v7 formation that includes three defenders, one midfielder, and two forwards.
+**2-4-1**: An attack-minded 8v8 formation (including a goalkeeper) with two defenders, four midfielders, and one forward.
 
-**3-2-1**: A defensive-minded 7v7 formation that includes three defenders, two midfielders, and one forward.
+**4-2-1**: A defensive 8v8 formation (including a goalkeeper) with four defenders, two midfielders, and one forward.
 
 ## Field
 
