@@ -93,19 +93,3 @@
 **Jockey**: Stay between the opponent and the goal, slowing them down without committing to a tackle, allowing teammates to recover.
 
 **Tackle**: Attempt to win the ball from an opponent.
-
-## Play Stoppage
-
-**Penalty kick**: A kick taken from in front of the goal, usually as a result of a foul that takes place inside the penalty area. When a penalty kick is taken, no player other than the shooter and opposing goalkeeper can enter the penalty area until after the shot is taken. Further, the goalkeeper cannot advance from the goal line until after the shot is taken, although the goalkeeper is allowed to move from side to side.
-
-**Offside**: A violation that occurs when an offensive player is closer to the opponent's goal than both the ball and the second-to-last opposing player at the time that the ball is passed to the offensive player by his or her teammate. Players cannot be called offside if they are in their own half of the field or if they receive the ball from a throw-in, corner kick, or goal kick. When a player is called offside, the opposing team is awarded a free kick.
-
-**Throw-in**: A way to restart play when the ball goes out over the sidelines. The team that did not last touch the ball last is allowed an overhead throw with a run-up from the sideline.
-
-**Foul**: A stop in play when the referee judges a violation against an opposing player. The team that suffers the foul is awarded with a free kick unless the foul is committed by a defensive player inside his own penalty area, in which case the foul results in a penalty kick.
-
-**Free kick**: A kick given to the team that has suffered a foul at the spot of the infraction. The kicker is given a ten-yard buffer between the spot of the kick and the first opposing player. A free kick is usually direct, meaning the kicker can score without the ball having to touch another player before it enters the goal. An indirect free kick is used for minor fouls in or near the penalty area that require the ball to touch another player before crossing the goal line.
-
-**Corner kick**: Awarded when the defending team plays the ball over the end line, a corner kick is taken by the attacking team from next to the corner flag. Just as is the case with a free kick, the ball is kicked from a stopped position and defenders must be at least 10-yards away.
-
-**Goal kick**: Awarded when the attacking team puts the ball over the end line, this is a set kick taken from the defending team's own goal box.
